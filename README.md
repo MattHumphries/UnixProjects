@@ -1,2 +1,2 @@
 # UnixProjects
-Projects and assignments in UNIX environment using SSH. 
+Projects and assignments written in UNIX environment using SSH. 
